@@ -55,7 +55,7 @@ The dashboard also displays individual customer reviews, providing qualitative i
 A heatmap visualisation highlights the average rating of airlines across different traveller types, helping users quickly identify patterns in service performance.
 
 ## Dashboard Preview
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](images/dashboard-preview.PNG)
 
 ## Insights Enabled by the Dashboard
 The dashboard allows users to explore several important customer experience insights, including:
@@ -76,3 +76,11 @@ Install the required packages:
 
 ```bash
 pip install -r requirements.txt
+```
+## How to Run
+Run the dashboard locally with:
+```bash
+python app.py
+```
+Then open the following address in your browser:
+http://127.0.0.1:8050
